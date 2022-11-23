@@ -1,3 +1,4 @@
+using ITHS.Webapi;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -15,6 +16,7 @@ internal class Program
         builder.Services.AddControllers()
             .AddJsonOptions(options =>
                 options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter()));
+
         //Add auth
         builder.Services.AddAuthentication(x => {
                     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -33,6 +35,8 @@ internal class Program
                         ValidateIssuerSigningKey = true
                     };
                 });
+
+        var config = builder.Configuration;
 
         ConfigureSwagger(builder.Services);
 
@@ -57,14 +61,14 @@ internal class Program
                 options.SwaggerDoc("v1",
                         new OpenApiInfo
                         {
-                            Title = "My API - V1",
+                            Title = "ITHS - V1",
                             Version = "v1",
-                            Description = "A sample API to demo Swashbuckle",
-                            TermsOfService = new Uri("http://tempuri.org/terms"),
+                            Description = "Here we go v1 of the api",
+                            TermsOfService = new Uri("http://toSomewhere.com"),
                             Contact = new OpenApiContact
                             {
-                                Name = "Joe Developer",
-                                Email = "joe.developer@tempuri.org"
+                                Name = "Please don't contact me",
+                                Email = "Nope@tempuri.org"
                             },
                             License = new OpenApiLicense
                             {
@@ -72,7 +76,7 @@ internal class Program
                                 Url = new Uri("http://www.apache.org/licenses/LICENSE-2.0.html")
                             }
                         });
-                options.SwaggerDoc("v2", new OpenApiInfo { Title = "ITHS Demo", Version = "v2" });
+                options.SwaggerDoc("v2", new OpenApiInfo { Title = "ITHS Demo", Description = "Here we go v2 of the api now even better!!!", Version = "v2" });
 
                 options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
@@ -84,16 +88,15 @@ internal class Program
                     Scheme = "Bearer"
                 });
 
-                options.AddSecurityRequirement(new OpenApiSecurityRequirement {
-            {
-                new OpenApiSecurityScheme {
-                    Reference = new OpenApiReference {
-                        Type=ReferenceType.SecurityScheme,
-                        Id="Bearer"
+                options.AddSecurityRequirement(new OpenApiSecurityRequirement {{
+                        new OpenApiSecurityScheme {
+                            Reference = new OpenApiReference {
+                                Type=ReferenceType.SecurityScheme,
+                                Id="Bearer"
+                            }
+                        },
+                        new string[]{}
                     }
-                },
-                new string[]{}
-            }
                 });
 
                 //xml comments
@@ -131,7 +134,7 @@ internal class Program
             }
 
             app.UseHttpsRedirection();
-            app.UseRouting();//
+            app.UseRouting();
             app.UseStaticFiles();
             app.UseAuthentication();
             app.UseAuthorization();

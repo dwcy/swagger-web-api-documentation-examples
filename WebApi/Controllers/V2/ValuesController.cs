@@ -24,7 +24,7 @@ namespace ITHS.Webapi.Controllers.V2
         }
 
         [HttpPost, Authorize]
-        [SwaggerResponse((int)HttpStatusCode.BadRequest, "Invalid input")]
+        
         [SwaggerResponse((int)HttpStatusCode.OK)]
         [Consumes(MediaTypeNames.Application.Json)]
         public IActionResult Post([FromBody] Payload payload)

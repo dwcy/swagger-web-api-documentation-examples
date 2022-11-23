@@ -9,6 +9,11 @@
             Add new products to order system
             </summary>
         </member>
+        <member name="M:ITHS.Webapi.Controllers.V1.AuthenticationController.CheckAccess">
+            <summary>
+            Check if the user is authorized
+            </summary>
+        </member>
         <member name="P:ITHS.Webapi.Controllers.V1.ValuesController.Payload.Text">
             <summary>
             The sizes the product is available in
