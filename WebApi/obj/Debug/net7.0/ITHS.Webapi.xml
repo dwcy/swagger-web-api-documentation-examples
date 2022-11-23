@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ITHS.Webapi</name>
+    </assembly>
+    <members>
+        <member name="M:ITHS.Webapi.Controllers.V1.AdvancedValidationsController.Put(ITHS.Webapi.Controllers.V1.AdvancedValidationsController.ProductRequestModel)">
+            <summary>
+            Add new products to order system
+            </summary>
+        </member>
+        <member name="P:ITHS.Webapi.Controllers.V1.ValuesController.Payload.Text">
+            <summary>
+            The sizes the product is available in
+            </summary>
+            <example>["Small", "Medium", "Large"]</example>
+        </member>
+        <member name="M:ITHS.Webapi.Controllers.V1.ValuesController.Put(ITHS.Webapi.Controllers.V1.ValuesController.PutPayload)">
+            <summary>
+            updates a specific item in list
+            </summary>
+        </member>
+        <member name="M:ITHS.Webapi.Controllers.V1.ValuesController.Delete(ITHS.Webapi.Controllers.V1.ValuesController.Payload)">
+            <summary>
+            Deletes a specific item from list
+            </summary>
+        </member>
+    </members>
+</doc>

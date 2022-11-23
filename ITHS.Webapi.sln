@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{881FA285-50BE-4E37-A810-F69A2983792C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosts", "Hosts", "{96A88511-A2AF-4C3F-B1A8-1299CE654220}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{471D6A40-F21F-4964-96F3-54B846E0CD75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITHS.Webapi", "WebApi\ITHS.Webapi.csproj", "{36FECCB9-1AD6-4035-B117-72C2DB17311E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FECCB9-1AD6-4035-B117-72C2DB17311E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FECCB9-1AD6-4035-B117-72C2DB17311E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FECCB9-1AD6-4035-B117-72C2DB17311E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FECCB9-1AD6-4035-B117-72C2DB17311E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{36FECCB9-1AD6-4035-B117-72C2DB17311E} = {96A88511-A2AF-4C3F-B1A8-1299CE654220}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1645AEE8-E553-4140-BC8C-67FA21FAE9BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,94 @@
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\appsettings.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\ITHS.Webapi.exe
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\ITHS.Webapi.deps.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\ITHS.Webapi.runtimeconfig.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\ITHS.Webapi.pdb
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.csproj.AssemblyReference.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.AssemblyInfoInputs.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.AssemblyInfo.cs
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.ITHS.Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.build.ITHS.Webapi.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITHS.Webapi.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITHS.Webapi.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\scopedcss\bundle\ITHS.Webapi.styles.css
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.csproj.CopyComplete
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\refint\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.pdb
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.genruntimeconfig.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ref\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\ITHS.Webapi.xml
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\obj\Debug\net7.0\ITHS.Webapi.xml
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\ITHS.Webapi.exe
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\ITHS.Webapi.deps.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\ITHS.Webapi.runtimeconfig.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\ITHS.Webapi.pdb
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\ITHS.Webapi.xml
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.csproj.AssemblyReference.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.AssemblyInfoInputs.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.AssemblyInfo.cs
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.ITHS.Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ITHS.Webapi.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ITHS.Webapi.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ITHS.Webapi.props
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\scopedcss\bundle\ITHS.Webapi.styles.css
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.csproj.CopyComplete
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\refint\ITHS.Webapi.dll
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.xml
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.pdb
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ITHS.Webapi.genruntimeconfig.cache
+C:\Users\DawidParvulescu\source\repos\ITHS.Webapi - 4 -6\WebApi\obj\Debug\net7.0\ref\ITHS.Webapi.dll
